@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: 519726058@qq.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: admin
+      password: $2b$12$jGUol35aFb.fj1I7CrB6QuE2yYXTY/7M8JYOtEDAm4jboJKqcdKNq # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+pre-authorized:
+  emails:
+  - melsby@gmail.com
